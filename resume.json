@@ -1,0 +1,237 @@
+{
+	"meta": {
+		"theme": "jsonresume-theme-elegant"
+	},
+	"basics": {
+		"name": "Jacob Horton",
+		"label": "Software Engineer",
+		"image": "",
+		"email": "hortonjacob1@gmail.com",
+		"phone": "07599848135",
+		"summary": "I am a diligent, motivated and high-achieving individual with a strong interest in coding and servers. I especially love logical thinking and problem-solving. Furthermore, I am fluent in a range of programming languages and would love to expand this knowledge by working alongside industry experts.\n\nI have used my approachability and interpersonal skills to help my fellow students’ understanding in various topics, being commended on my ability to break complex ideas down into manageable chunks.",
+		"location": {
+			"address": "22 Asburnham Close, Freshbrook",
+			"postalCode": "SN5 8RA",
+			"city": "Swindon",
+			"countryCode": "UK",
+			"region": "Wiltshire"
+		},
+		"profiles": [
+			{
+				"network": "GitHub",
+				"username": "jacob-horton",
+				"url": "https://github.com/jacob-horton"
+			},
+			{
+				"network": "LinkedIn",
+				"username": "Jacob Horton",
+				"url": "https://www.linkedin.com/in/jacob-a-horton/"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "SparkLayer",
+			"position": "Software Engineer Intern",
+			"url": "https://sparklayer.io",
+			"startDate": "2023-07-03",
+			"endDate": "2024-08-30",
+			"summary": "Full stack software engineer working on a B2B e-commerce platform. Learned a whole load about GCP, microservices, working in a team, complex migrations, new technologies, TODO",
+			"highlights": [
+				"Golang",
+				"PHP",
+				"TypeScript/JavaScript",
+				"Vue",
+				"Lit",
+				"Haunted",
+				"SolidJS",
+				"GCP"
+			]
+		}
+	],
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "Royal Wootton Bassett Academy",
+			"url": "https://rwba.org.uk",
+			"area": "Computer Science, Maths, Further Maths, Physics, EPQ, AEA",
+			"studyType": "A-Level",
+			"startDate": "2019-09-01",
+			"endDate": "2021-07-01",
+			"score": "A*, A*, A*, A*, A*, Merit",
+			"courses": [
+				"Computer Science (A*)",
+				"Maths (A*)",
+				"Further Maths (A*)",
+				"Physics (A*)",
+				"EPQ (A*)",
+				"AEA (Merit)"
+			]
+		},
+		{
+			"institution": "University of Bath",
+			"url": "https://bath.ac.uk",
+			"area": "Computer Science",
+			"studyType": "Bachelor",
+			"startDate": "2021-09-27",
+			"endDate": "2025-05-30",
+			"score": "First-Class Honours",
+			"courses": [
+				"Principles of Programming 1 & 2",
+				"Discrete Mathematics & Databases",
+				"AI",
+				"Computer Systems Architecture 1 & 2",
+				"Maths for Computation",
+				"Software Processes and Modelling",
+				"Foundations of Computation",
+				"Fundamentals of Visual Computing",
+				"Data Structures and Algorithms",
+				"Functional Programming",
+				"Experimental Systems Project",
+				"Machine Learning",
+				"Comparative Programming Languages",
+				"Human-Computer Interaction & User Experience"
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "Employee of the Quarter",
+			"date": "2024-07-05",
+			"awarder": "SparkLayer",
+			"summary": "Voted by colleagues as 'Sparkie' of the quarter - demonstrating the core values of the company"
+		}
+	],
+	"certificates": [],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Web Development",
+			"level": "Mid-Level (Professionally)",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"JavaScript",
+				"TypeScript",
+				"Vue",
+				"SolidJS",
+				"Lit",
+				"Haunted",
+				"NodeJS",
+				"React",
+				"HTMX",
+				"Golang",
+				"Rust"
+			]
+		},
+		{
+			"name": "Systems Programming Languages",
+			"level": "Mid-Level (Personal)",
+			"keywords": [
+				"Rust",
+				"Zig",
+				"C",
+				"C++"
+			]
+		},
+		{
+			"name": "App Development",
+			"level": "Mid-Level (Personal)",
+			"keywords": [
+				"Dart/Flutter",
+				"React Native",
+				"Java",
+				"C#/Unity"
+			]
+		}
+	],
+	"languages": [],
+	"interests": [
+		{
+			"name": "Homelabbing/Self-Hosting",
+			"keywords": [
+				"Docker",
+				"Proxmox/Virtualisation",
+				"Linux",
+				"Networking",
+				"Learning"
+			]
+		},
+		{
+			"name": "Ethical Hacking",
+			"keywords": [
+				"Networking",
+				"Exploits",
+				"Security",
+				"Linux"
+			]
+		},
+		{
+			"name": "Coding",
+			"keywords": [
+				"Learning new tech",
+				"Neovim",
+				"App making",
+				"Website making"
+			]
+		},
+		{
+			"name": "Swimming",
+			"keywords": []
+		},
+		{
+			"name": "Cycling",
+			"keywords": []
+		},
+		{
+			"name": "Gym",
+			"keywords": [
+				"Weightlifting"
+			]
+		},
+		{
+			"name": "Mountaineering",
+			"keywords": [
+				"Climbing",
+				"Walks",
+				"Photography",
+				"DJI Drone"
+			]
+		},
+		{
+			"name": "Sharing Knowledge",
+			"keywords": [
+				"Tutoring",
+				"Teaching Others"
+			]
+		}
+	],
+	"projects": [
+		{
+			"name": "Mario Kart Scoreboard",
+			"startDate": "2023-04-22",
+			"endDate": "2024-09-08",
+			"description": "I developed a web app to show a scoreboard and stats of Mario Kart games. Through this project, I learned a lot about creating a web apps in React and Rust - state management, RESTful APIs, security/firewalls, Cloudflare Tunnels, and much more. It was my first go using Rust as an API - I loved it, especially the compile time safety of SQL query checking. I did a dive into learning how authentication is handled using JWTs, access tokens and refresh tokens. While I know my implementation wasn't the most secure (e.g. using localstorage instead of HTTP only cookies), I learned a lot and it was good enough for my use case.",
+			"highlights": [
+				"Built with React, Rust and Postgres",
+				"Uses Cloudflare Tunnels",
+				"Learned about authentication with JWTs",
+				"Available at https://mariokart.cc"
+			],
+			"url": "https://github.com/jacob-horton/mk-scoreboard"
+		},
+		{
+			"name": "Homelab",
+			"startDate": "2021-02-14",
+			"endDate": "Current",
+			"description": "I built a server to self-host many pieces of free and open-source software using Proxmox, Docker, and Linux. This has greatly improved my Linux and networking skills, taught me a multitude of server technologies, and given me an insight into security considerations.\n\nI also used a Raspberry Pi to create a remote-control socket switch using relays. It incorporated a Node JS server controlled via my Home Assistant server. This project taught me a lot about hardware and circuits.",
+			"highlights": [
+				"Backups",
+				"Ad Blocker (AdGuard)",
+				"VPN (Tailscale)",
+				"Google Photos Alternative (Immich)",
+				"Custom made IOT socket switch"
+			]
+		}
+	]
+}
