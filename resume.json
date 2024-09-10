@@ -223,7 +223,6 @@
 		{
 			"name": "Homelab",
 			"startDate": "2021-02-14",
-			"endDate": "Current",
 			"description": "I built a server to self-host many pieces of free and open-source software using Proxmox, Docker, and Linux. This has greatly improved my Linux and networking skills, taught me a multitude of server technologies, and given me an insight into security considerations.\n\nI also used a Raspberry Pi to create a remote-control socket switch using relays. It incorporated a Node JS server controlled via my Home Assistant server. This project taught me a lot about hardware and circuits.",
 			"highlights": [
 				"Backups",
