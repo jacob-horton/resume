@@ -37,14 +37,14 @@
 			"url": "https://sparklayer.io",
 			"startDate": "2023-07-03",
 			"endDate": "2024-08-30",
-			"summary": "Worked as a full stack software engineer on a B2B e-commerce platform. Also helped out in customer support. Despite being an intern, I got to lead a project, design and implement an API/microservice from scratch, carry out a migration to a new system without downtime, update infrastructure, and much more. I learned loads about GCP, microservices, new frameworks/languages, working in a team + communication both with customers and within the team.",
+			"summary": "Worked as a full stack software engineer on a B2B e-commerce platform. Also helped out in customer support. Despite being an intern, I got to lead a project, design and implement an API/microservice from scratch, carry out a migration to a new system without downtime, update infrastructure, and much more. I learned loads about GCP, microservices, new frameworks/languages, working in a team & communication both with customers and within the team.",
 			"highlights": [
-				"Presentation on APIs + how to use them for our customer support team",
+				"Presentation on APIs & how to use them for our customer support team",
 				"Communicating with enterprise clients to integrate them with our APIs",
 				"Organised a mini hackathon for the developers",
-				"Backend - Golang + PHP",
-				"Frontend - TypeScript/JavaScript + Vue + SolidJS + Lit + Haunted",
-				"Infra - GCP + Pulumi"
+				"Backend - Golang & PHP",
+				"Frontend - TypeScript/JavaScript & Vue & SolidJS & Lit & Haunted",
+				"Infra - GCP & Pulumi"
 			]
 		}
 	],
@@ -76,17 +76,17 @@
 			"endDate": "2025-05-30",
 			"score": "First-Class Honours",
 			"courses": [
-				"Principles of Programming 1 + 2",
-				"Computer Systems Architecture 1 + 2",
-				"Discrete Mathematics + Databases",
-				"AI + Machine Learning",
+				"Principles of Programming 1 & 2",
+				"Computer Systems Architecture 1 & 2",
+				"Discrete Mathematics & Databases",
+				"AI & Machine Learning",
 				"Foundations of Computation",
 				"Fundamentals of Visual Computing",
 				"Data Structures and Algorithms",
 				"Functional Programming",
 				"Experimental Systems Project",
 				"Comparative Programming Languages",
-				"Human-Computer Interaction + User Experience"
+				"Human-Computer Interaction & User Experience"
 			]
 		}
 	],
@@ -191,11 +191,11 @@
 			"name": "Mario Kart Scoreboard",
 			"startDate": "2023-04-22",
 			"endDate": "2024-09-08",
-			"description": "I developed a web app to show a scoreboard and stats of Mario Kart games. Through this project, I learned how to structure the front-end and back-end of a web app, using Rust and TypeScript + React. I did a dive into learning how authentication is handled using JWTs, access tokens and refresh tokens. I researched security for the authentication and found a middle-ground between complexity and security that I was happy with for this hobby project.",
+			"description": "I developed a web app to show a scoreboard and stats of Mario Kart games. Through this project, I learned how to structure the front-end and back-end of a web app, using Rust and TypeScript & React. I did a dive into learning how authentication is handled using JWTs, access tokens and refresh tokens. I researched security for the authentication and found a middle-ground between complexity and security that I was happy with for this hobby project.",
 			"highlights": [
 				"Built with React, Rust and Postgres",
 				"Learned how to structure RESTful APIs",
-				"Used Cloudflare Tunnels + set up firewall",
+				"Used Cloudflare Tunnels & set up firewall",
 				"Learned about authentication with JWTs",
 				"Available at https://mariokart.cc"
 			],
@@ -207,8 +207,8 @@
 			"description": "I built a server to self-host many pieces of free and open-source software using Proxmox, Docker, and Linux. This has greatly improved my Linux and networking skills, taught me a multitude of server technologies, and given me an insight into security considerations. I am always looking for new things learn and run on this server\n\nI also used a Raspberry Pi to create a remote-control socket switch using relays. It incorporated a Node JS server controlled via my Home Assistant server. This project taught me a lot about hardware and circuits.",
 			"highlights": [
 				"Linux",
-				"Virtualisation - Proxmox + Docker",
-				"Networking + Firewalls",
+				"Virtualisation - Proxmox & Docker",
+				"Networking & Firewalls",
 				"Custom DNS (AdGuard)",
 				"Custom VPN (Tailscale)",
 				"Custom made IOT socket switch"
